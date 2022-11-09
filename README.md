@@ -2,8 +2,9 @@
 CPEN 211 - Introduction to Microcomputers (September-December 2021)
 
 ## Team Members
-Leif Moen
-Idil Bil
+Leif Moen and Idil Bil
+
+##Labs
 
 ### Lab 3
 Design a state machine and connect it to the seven segment LEDs on the DE1-SoC via a combinational logic block.
